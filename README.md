@@ -94,7 +94,7 @@ As final considerations:
 * You must include a written description of three observable trends based on the data.
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
 
-## Option 2: Academy of Py
+## Option 2: Academy of Py  
 
 ![Education](Images/education.png)
 
