@@ -32,7 +32,7 @@ Your final report should include each of the following:
 
 * Total Number of Players
   
-### Purchasing Analysis (Total)
+### Purchasing Analysis (Total)  
   
 * Number of Unique Items
 * Average Purchase Price
