@@ -86,7 +86,7 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
+ 
 As final considerations:
 
 * You must use the Pandas Library and the Jupyter Notebook.
